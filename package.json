@@ -1,7 +1,7 @@
 {
   "name": "app_todo_list_vuejs",
   "version": "0.1.0",
-  "homepage": "https://yuriiklimyuk.github.io/app_todo_list_vuejs/",
+  "homepage": ".",
   "private": true,
   "scripts": {
     "predeploy": "npm run build", 
